@@ -4,5 +4,12 @@ body {
 }
 
 a {
-  color: #00B7FF;
+  color: #00b7ff;
+}
+
+button {
+  cursor: pointer;
+  background: #00b7ff;
+  border-radius: 15px;
+  padding: 0 1em;
 }
